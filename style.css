@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+#fileInput {
+    margin: 10px 0;
+}
